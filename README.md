@@ -13,7 +13,7 @@
 
 1. ✏️ [Introduction](#introduction)
 2. 💻 [Technologies](#tech)
-3. 🔋 [Features](#features)
+3. ❇️ [Features](#features)
 4. 👨‍💻 [Quick Start](#quick-start)
 
 
@@ -36,7 +36,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 - Chart.js
 - ShadCN
 
-## <a name="features">🔋 Features</a>
+## <a name="features">❇️ Features</a>
 
 ✔️ **Authentication**: An ultra-secure SSR authentication with proper validations and authorization
 
