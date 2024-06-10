@@ -1,6 +1,6 @@
 <div align="center">  
   <br />
-     ![Project Banner](https://raw.githubusercontent.com/chofor-cliford/horizon/master/public/icons/logo.svg)
+     <img src="https://github.com/chofor-cliford/horizon/blob/master/public/icons/logo.svg?raw=true" alt="Project Banner" />
   <br />
  
   <div>
