@@ -1,5 +1,4 @@
 <div align="center">  
-  <br />
      <img src="https://github.com/chofor-cliford/horizon/blob/master/public/icons/logo.svg?raw=true" width="120" height="120" alt="Project Banner" />
       <h2 align="center"><strong>Horizon</strong></h2>
   <br />
