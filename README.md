@@ -1,6 +1,7 @@
 <div align="center">  
   <br />
-     <img src="https://github.com/chofor-cliford/horizon/blob/master/public/icons/logo.svg?raw=true" width="100" height="100" alt="Project Banner" />
+     <img src="https://github.com/chofor-cliford/horizon/blob/master/public/icons/logo.svg?raw=true" width="150" height="150" alt="Project Banner" />
+     <h1 align="center"><strong>Horizon</strong></h2>
   <br />
  
   <div>
