@@ -1,7 +1,6 @@
 <div align="center">  
   <br />
-     <img src="https://github.com/chofor-cliford/horizon/blob/master/public/icons/logo.svg?raw=true" width="150" height="150" alt="Project Banner" />
-     <h1 align="center"><strong>Horizon</strong></h2>
+     <img src="https://github.com/chofor-cliford/horizon/blob/master/public/icons/logo.svg?raw=true" width="120" height="120" alt="Project Banner" />
   <br />
  
   <div>
@@ -11,7 +10,7 @@
     <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=FD366E" alt="appwrite" />
   </div>
 
-  <h3 align="center">A Fintech Bank Application</h3>
+  <h3 align="center">Horizon</h3>
 </div>
 
 ## 📖 <a name="table">Table of Contents</a>
